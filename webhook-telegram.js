@@ -13,7 +13,7 @@ async function handleRequest(request) {
   //Use for webhook of n8n node
   const webhookMap = {
     '/webhook-bot1': 'https://n8n.aivnd.com/webhook/<id>/webhook',
-    //'/webhook-bot2': 'https://n8n.aivnd.com/webhook/<id>/webhook'
+    '/webhook-bot2': 'https://n8n.aivnd.com/webhook/<id>/webhook'
   };
 
   const targetWebhook = webhookMap[pathname];
