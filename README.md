@@ -44,8 +44,10 @@ https://ten-worker.cloudflare.workers.dev/webhook-bot1
 
 ## 💡 Lưu ý quan trọng:
 Ngay tại link của worker bạn phải remove bỏ dấu flash "/" ở cuối URL.
-Ví dụ: https://proxy-telegram-bot.lequocthai.workers.dev  ===> OK work
-       https://proxy-telegram-bot.lequocthai.workers.dev/  ===> NO OK not work
+
+## Ví dụ:
+https://proxy-telegram-bot.lequocthai.workers.dev  ===> OK work
+https://proxy-telegram-bot.lequocthai.workers.dev/  ===> NO OK not work
 
 ### ✅ Công dụng:
 
